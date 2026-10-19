@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`formatReceipt matches the stored snapshot 1`] = `
+"Order order-1
+Date: 2026-01-15T10:30:00.000Z
+
+2 x Lund Chair @ $149.00 = $298.00
+1 x Arc Floor Lamp @ $59.00 = $59.00
+
+Subtotal: $357.00
+Discount: -$35.70
+Shipping: $0.00
+Tax: $25.70
+Total: $347.00"
+`;
