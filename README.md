@@ -1,3 +1,4 @@
+![CI](https://github.com/amnataj/cart-jest-project/actions/workflows/ci.yml/badge.svg)
 # Cart & Checkout: Advanced Jest + TypeScript Testing Project
 
 A small cart and checkout service (Node, Express, TypeScript) built to demonstrate a professional Jest test suite: unit tests, integration tests, mocking, fake timers, custom matchers, snapshots, coverage gates and CI.
